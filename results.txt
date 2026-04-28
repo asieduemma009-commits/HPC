@@ -1,0 +1,8 @@
+emma@EMMA:~/hpc_qualifier/scripts$ nano ~/hpc_qualifier/scripts/analysis.py
+emma@EMMA:~/hpc_qualifier/scripts$ python3 analysis.py 5
+Input: 5
+Squared: 25
+emma@EMMA:~/hpc_qualifier/scripts$ python3 analysis.py 12
+Input: 12
+Squared: 144
+emma@EMMA:~/hpc_qualifier/scripts
